@@ -62,3 +62,4 @@ import data from '/путь/к/data.json';
 <Statistics title="Main Statistics" stats={data} />;
 <Statistics stats={data} />;
 ```
+  –≠[]
